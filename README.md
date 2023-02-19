@@ -3,23 +3,31 @@
 
 # COBY PRESS #
 
-<a href="https://www.youtube.com/channel/UCUlgzZDSeEIe5MNQQ6FEzlw"><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/yt.png.png" 
+<a href="https://www.youtube.com/channel/UCUlgzZDSeEIe5MNQQ6FEzlw"><img src="https://github.com/cobypress/cobypress/blob/main/assets/Youtube.svg" 
      width=4% 
      height=auto 
      alt="youtube badge" />
-     <a href="https://discord.gg/8WXffeeFY5"><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/discord.png.png" 
+     <a href="https://discord.gg/8WXffeeFY5"><img src="https://github.com/cobypress/cobypress/blob/main/assets/3069758_circle_discord_gaming_messenger_round%20icon_icon.png" 
      width=4% 
      height=auto 
      alt="discord badge" />
-     <a href="https://twitter.com/coby_press"><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/Twitter.png.png" 
+     <a href="https://twitter.com/coby_press"><img src="https://github.com/cobypress/cobypress/blob/main/assets/Twitter.svg" 
      width=4% 
      height=auto 
      alt="twitter badge" />
-     <a href="https://www.instagram.com/coby9055/"><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/instagram.png.png" 
+     <a href="https://www.instagram.com/coby9055/"><img src="https://github.com/cobypress/cobypress/blob/main/assets/Instagram.svg" 
      width=4% 
      height=auto 
      alt="instagram badge" />
-          
+     <a href="https://www.coby.press"><img src="https://github.com/cobypress/cobypress/blob/main/assets/website-5793.svg" 
+     width=4% 
+     height=auto 
+     alt="instagram badge" />
+     <a href = "mailto: hi@coby.press"><img src="https://github.com/cobypress/cobypress/blob/main/assets/Gmail.svg"
+     width=4% 
+     height=auto 
+     alt="mail badge" />
+     </a>
 </div>
 
 <div align="center">
@@ -57,5 +65,4 @@ Im Coby, in my spare time I cant stay away from anything outdoors! Surfing 🏄�
      
 ## Recent Projects 📽️
 
-- [Manacube Console](https://github.com/ThicLatinaMC/Manacube-Console-Client)
-- [ThicLatina 1.18 Resource Pack](https://github.com/ThicLatinaMC/Thics-Resource-Pack)
+- coming soon
