@@ -52,6 +52,7 @@ Im Coby, in my spare time I cant stay away from anything outdoors! Surfing ğŸ„â
           <img src="https://github.com/cobypress/cobypress/blob/main/assets/premierepro-plain.svg" height="40"/>
           <img src="https://github.com/cobypress/cobypress/blob/main/assets/webstorm-icon-512x512-lmof1hfg.png" height="40"/>
           <img src="https://github.com/cobypress/cobypress/blob/main/assets/vscode-original.svg" height="40"/>
+          <img src="https://github.com/cobypress/cobypress/blob/main/assets/jira-original.svg" height="40"/>
         </p>
           
           
