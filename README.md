@@ -66,4 +66,4 @@ Im Coby, in my spare time I cant stay away from anything outdoors! Surfing 🏄�
      
 ## Recent Projects 📽️
 
-- coming soon
+- [Personality Quiz](https://cobypress.github.io/)
