@@ -58,7 +58,7 @@ Im Coby, in my spare time I cant stay away from anything outdoors! Surfing ğŸ„â
 <div align="center">
        
        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThicLatinaMC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobypress&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
           </div>
           
 <div align="left">
